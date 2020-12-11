@@ -69,4 +69,5 @@ class _AddTodoDialogWidgetState extends State<AddTodoDialogWidget> {
     );
     await insertDog(todo);
   }
+
 }
